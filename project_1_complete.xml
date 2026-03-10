@@ -1,0 +1,3156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<template encoding-version="1.3">
+    <description></description>
+    <groupId>bef98669-019c-1000-31b9-d31fc90b4db5</groupId>
+    <name>project_1_complete</name>
+    <snippet>
+        <connections>
+            <id>33f30abf-cfc7-36d9-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>33f30abf-cfc7-36d9-8cef-41e816d986f1</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>6dfab636-470b-3ebb-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>6dfab636-470b-3ebb-9569-678cc05e64ac</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>f9b8d209-0289-320b-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>f9b8d209-0289-320b-8a67-616de7e06939</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>4ae030fe-c643-3170-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>4ae030fe-c643-3170-af56-2594a49ed9c1</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>9d0d31a6-5846-38cf-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>9d0d31a6-5846-38cf-ae77-c67eee4d7666</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>e3cafbe8-c4f9-36ad-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>e3cafbe8-c4f9-36ad-84d1-3069ea2bba31</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>662f9d8c-99b2-3566-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>662f9d8c-99b2-3566-a599-461458fe492f</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>fa7b89bb-2ade-3b7d-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>fa7b89bb-2ade-3b7d-b4af-57e1f9abfe93</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>81e3a484-5c22-3092-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>81e3a484-5c22-3092-bde4-6639f5f8113b</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>669d0504-c3fd-3857-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>669d0504-c3fd-3857-80c7-b5fcc07f41ce</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>a4680180-1f97-3bb7-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>a4680180-1f97-3bb7-bee1-6198ec1fa71e</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>3f47f2b7-43d7-39d5-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>3f47f2b7-43d7-39d5-a569-781b06f6d28c</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>6a7c1871-b9a0-3dd5-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>6a7c1871-b9a0-3dd5-b29a-811f4e2b4c31</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>e3cafbe8-c4f9-36ad-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>e3cafbe8-c4f9-36ad-84d1-3069ea2bba31</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>customers</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>ffd4b6b0-8106-3067-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>ffd4b6b0-8106-3067-9dea-2ce65c23a350</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>8c23dd73-9dcc-38a2-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>8c23dd73-9dcc-38a2-a6df-cc4fc8b19778</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>13de3398-edb0-3436-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>13de3398-edb0-3436-a5e4-6ee7cc155a9d</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>products</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>ffd4b6b0-8106-3067-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>ffd4b6b0-8106-3067-9dea-2ce65c23a350</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>8e99d3c2-b544-3617-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>8e99d3c2-b544-3617-ad8c-82a6f4e1c816</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>3f47f2b7-43d7-39d5-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>3f47f2b7-43d7-39d5-a569-781b06f6d28c</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>daily_sales</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>ffd4b6b0-8106-3067-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>ffd4b6b0-8106-3067-9dea-2ce65c23a350</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>918d5d01-8616-3cd1-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>918d5d01-8616-3cd1-bb79-12577f495b84</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>22677557-db20-336e-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>22677557-db20-336e-9bb6-fa5fef484166</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>13de3398-edb0-3436-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>13de3398-edb0-3436-a5e4-6ee7cc155a9d</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>95e01e7b-7d55-39e8-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>95e01e7b-7d55-39e8-8f03-8a11e96f43af</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>f9b8d209-0289-320b-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>f9b8d209-0289-320b-8a67-616de7e06939</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>suppliers</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>ffd4b6b0-8106-3067-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>ffd4b6b0-8106-3067-9dea-2ce65c23a350</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <connections>
+            <id>d816a486-1c80-3ddb-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>d816a486-1c80-3ddb-ad12-32ca7d3419da</versionedComponentId>
+            <backPressureDataSizeThreshold>1 GB</backPressureDataSizeThreshold>
+            <backPressureObjectThreshold>10000</backPressureObjectThreshold>
+            <destination>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>ffd4b6b0-8106-3067-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>ffd4b6b0-8106-3067-9dea-2ce65c23a350</versionedComponentId>
+            </destination>
+            <flowFileExpiration>0 sec</flowFileExpiration>
+            <labelIndex>1</labelIndex>
+            <loadBalanceCompression>DO_NOT_COMPRESS</loadBalanceCompression>
+            <loadBalancePartitionAttribute></loadBalancePartitionAttribute>
+            <loadBalanceStatus>LOAD_BALANCE_NOT_CONFIGURED</loadBalanceStatus>
+            <loadBalanceStrategy>DO_NOT_LOAD_BALANCE</loadBalanceStrategy>
+            <name></name>
+            <selectedRelationships>success</selectedRelationships>
+            <source>
+                <groupId>b7d39576-44e6-3330-0000-000000000000</groupId>
+                <id>fa7b89bb-2ade-3b7d-0000-000000000000</id>
+                <type>PROCESSOR</type>
+                <versionedComponentId>fa7b89bb-2ade-3b7d-b4af-57e1f9abfe93</versionedComponentId>
+            </source>
+            <zIndex>0</zIndex>
+        </connections>
+        <controllerServices>
+            <id>5b32cfe8-b94c-3b26-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>5b32cfe8-b94c-3b26-b3de-3658eb53691c</versionedComponentId>
+            <bulletinLevel>WARN</bulletinLevel>
+            <bundle>
+                <artifact>nifi-dbcp-service-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <comments></comments>
+            <descriptors>
+                <entry>
+                    <key>Database Connection URL</key>
+                    <value>
+                        <name>Database Connection URL</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Database Driver Class Name</key>
+                    <value>
+                        <name>Database Driver Class Name</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>database-driver-locations</key>
+                    <value>
+                        <name>database-driver-locations</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>kerberos-user-service</key>
+                    <value>
+                        <identifiesControllerService>org.apache.nifi.kerberos.KerberosUserService</identifiesControllerService>
+                        <name>kerberos-user-service</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>kerberos-credentials-service</key>
+                    <value>
+                        <identifiesControllerService>org.apache.nifi.kerberos.KerberosCredentialsService</identifiesControllerService>
+                        <name>kerberos-credentials-service</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>kerberos-principal</key>
+                    <value>
+                        <name>kerberos-principal</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>kerberos-password</key>
+                    <value>
+                        <name>kerberos-password</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Database User</key>
+                    <value>
+                        <name>Database User</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Password</key>
+                    <value>
+                        <name>Password</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Max Wait Time</key>
+                    <value>
+                        <name>Max Wait Time</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Max Total Connections</key>
+                    <value>
+                        <name>Max Total Connections</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Validation-query</key>
+                    <value>
+                        <name>Validation-query</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>dbcp-min-idle-conns</key>
+                    <value>
+                        <name>dbcp-min-idle-conns</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>dbcp-max-idle-conns</key>
+                    <value>
+                        <name>dbcp-max-idle-conns</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>dbcp-max-conn-lifetime</key>
+                    <value>
+                        <name>dbcp-max-conn-lifetime</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>dbcp-time-between-eviction-runs</key>
+                    <value>
+                        <name>dbcp-time-between-eviction-runs</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>dbcp-min-evictable-idle-time</key>
+                    <value>
+                        <name>dbcp-min-evictable-idle-time</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>dbcp-soft-min-evictable-idle-time</key>
+                    <value>
+                        <name>dbcp-soft-min-evictable-idle-time</name>
+                    </value>
+                </entry>
+            </descriptors>
+            <name>DBCPConnectionPool</name>
+            <persistsState>false</persistsState>
+            <properties>
+                <entry>
+                    <key>Database Connection URL</key>
+                    <value>jdbc:postgresql://postgres:5432/etl_db</value>
+                </entry>
+                <entry>
+                    <key>Database Driver Class Name</key>
+                    <value>org.postgresql.Driver</value>
+                </entry>
+                <entry>
+                    <key>database-driver-locations</key>
+                </entry>
+                <entry>
+                    <key>kerberos-user-service</key>
+                </entry>
+                <entry>
+                    <key>kerberos-credentials-service</key>
+                </entry>
+                <entry>
+                    <key>kerberos-principal</key>
+                </entry>
+                <entry>
+                    <key>kerberos-password</key>
+                </entry>
+                <entry>
+                    <key>Database User</key>
+                    <value>vcelebrezze</value>
+                </entry>
+                <entry>
+                    <key>Password</key>
+                </entry>
+                <entry>
+                    <key>Max Wait Time</key>
+                    <value>500 millis</value>
+                </entry>
+                <entry>
+                    <key>Max Total Connections</key>
+                    <value>8</value>
+                </entry>
+                <entry>
+                    <key>Validation-query</key>
+                </entry>
+                <entry>
+                    <key>dbcp-min-idle-conns</key>
+                    <value>0</value>
+                </entry>
+                <entry>
+                    <key>dbcp-max-idle-conns</key>
+                    <value>8</value>
+                </entry>
+                <entry>
+                    <key>dbcp-max-conn-lifetime</key>
+                    <value>-1</value>
+                </entry>
+                <entry>
+                    <key>dbcp-time-between-eviction-runs</key>
+                    <value>-1</value>
+                </entry>
+                <entry>
+                    <key>dbcp-min-evictable-idle-time</key>
+                    <value>30 mins</value>
+                </entry>
+                <entry>
+                    <key>dbcp-soft-min-evictable-idle-time</key>
+                    <value>-1</value>
+                </entry>
+            </properties>
+            <state>ENABLED</state>
+            <type>org.apache.nifi.dbcp.DBCPConnectionPool</type>
+        </controllerServices>
+        <controllerServices>
+            <id>be1c2a1c-f732-3de9-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>be1c2a1c-f732-3de9-b1be-b6caf60c14b8</versionedComponentId>
+            <bulletinLevel>WARN</bulletinLevel>
+            <bundle>
+                <artifact>nifi-record-serialization-services-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <descriptors>
+                <entry>
+                    <key>schema-access-strategy</key>
+                    <value>
+                        <name>schema-access-strategy</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-registry</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>confluent-encoded</dependentValues>
+                            <dependentValues>schema-name</dependentValues>
+                            <dependentValues>hwx-schema-ref-attributes</dependentValues>
+                            <dependentValues>hwx-content-encoded-schema</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <identifiesControllerService>org.apache.nifi.schemaregistry.services.SchemaRegistry</identifiesControllerService>
+                        <name>schema-registry</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-name</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-name</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-version</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-version</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-branch</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-branch</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-text</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-text-property</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-text</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-inference-cache</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>infer-schema</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <identifiesControllerService>org.apache.nifi.serialization.RecordSchemaCacheService</identifiesControllerService>
+                        <name>schema-inference-cache</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>starting-field-strategy</key>
+                    <value>
+                        <name>starting-field-strategy</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>starting-field-name</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>NESTED_FIELD</dependentValues>
+                            <propertyName>starting-field-strategy</propertyName>
+                        </dependencies>
+                        <name>starting-field-name</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-application-strategy</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>confluent-encoded</dependentValues>
+                            <dependentValues>schema-name</dependentValues>
+                            <dependentValues>schema-text-property</dependentValues>
+                            <dependentValues>hwx-schema-ref-attributes</dependentValues>
+                            <dependentValues>hwx-content-encoded-schema</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <dependencies>
+                            <dependentValues>NESTED_FIELD</dependentValues>
+                            <propertyName>starting-field-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-application-strategy</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Date Format</key>
+                    <value>
+                        <name>Date Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Time Format</key>
+                    <value>
+                        <name>Time Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Timestamp Format</key>
+                    <value>
+                        <name>Timestamp Format</name>
+                    </value>
+                </entry>
+            </descriptors>
+            <name>JsonTreeReader</name>
+            <persistsState>false</persistsState>
+            <properties>
+                <entry>
+                    <key>schema-access-strategy</key>
+                    <value>infer-schema</value>
+                </entry>
+                <entry>
+                    <key>schema-registry</key>
+                </entry>
+                <entry>
+                    <key>schema-name</key>
+                    <value>${schema.name}</value>
+                </entry>
+                <entry>
+                    <key>schema-version</key>
+                </entry>
+                <entry>
+                    <key>schema-branch</key>
+                </entry>
+                <entry>
+                    <key>schema-text</key>
+                    <value>${avro.schema}</value>
+                </entry>
+                <entry>
+                    <key>schema-inference-cache</key>
+                </entry>
+                <entry>
+                    <key>starting-field-strategy</key>
+                    <value>ROOT_NODE</value>
+                </entry>
+                <entry>
+                    <key>starting-field-name</key>
+                </entry>
+                <entry>
+                    <key>schema-application-strategy</key>
+                    <value>SELECTED_PART</value>
+                </entry>
+                <entry>
+                    <key>Date Format</key>
+                </entry>
+                <entry>
+                    <key>Time Format</key>
+                </entry>
+                <entry>
+                    <key>Timestamp Format</key>
+                </entry>
+            </properties>
+            <state>ENABLED</state>
+            <type>org.apache.nifi.json.JsonTreeReader</type>
+        </controllerServices>
+        <controllerServices>
+            <id>d908d0d0-ad62-3354-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>d908d0d0-ad62-3354-800a-abdeb2f3eae7</versionedComponentId>
+            <bulletinLevel>WARN</bulletinLevel>
+            <bundle>
+                <artifact>nifi-record-serialization-services-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <comments></comments>
+            <descriptors>
+                <entry>
+                    <key>schema-access-strategy</key>
+                    <value>
+                        <name>schema-access-strategy</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-registry</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>confluent-encoded</dependentValues>
+                            <dependentValues>schema-name</dependentValues>
+                            <dependentValues>hwx-schema-ref-attributes</dependentValues>
+                            <dependentValues>hwx-content-encoded-schema</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <identifiesControllerService>org.apache.nifi.schemaregistry.services.SchemaRegistry</identifiesControllerService>
+                        <name>schema-registry</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-name</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-name</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-version</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-version</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-branch</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-branch</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-text</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-text-property</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-text</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>csv-reader-csv-parser</key>
+                    <value>
+                        <name>csv-reader-csv-parser</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Date Format</key>
+                    <value>
+                        <name>Date Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Time Format</key>
+                    <value>
+                        <name>Time Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Timestamp Format</key>
+                    <value>
+                        <name>Timestamp Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>CSV Format</key>
+                    <value>
+                        <name>CSV Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Value Separator</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>custom</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>Value Separator</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Record Separator</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>custom</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>Record Separator</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Skip Header Line</key>
+                    <value>
+                        <name>Skip Header Line</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>ignore-csv-header</key>
+                    <value>
+                        <name>ignore-csv-header</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Quote Character</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>custom</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>Quote Character</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Escape Character</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>custom</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>Escape Character</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Comment Marker</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>custom</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>Comment Marker</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Null String</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>custom</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>Null String</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Trim Fields</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>custom</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>Trim Fields</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>csvutils-character-set</key>
+                    <value>
+                        <name>csvutils-character-set</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>csvutils-allow-duplicate-header-names</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>custom</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>csvutils-allow-duplicate-header-names</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Trim double quote</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>rfc-4180</dependentValues>
+                            <propertyName>CSV Format</propertyName>
+                        </dependencies>
+                        <name>Trim double quote</name>
+                    </value>
+                </entry>
+            </descriptors>
+            <name>CSVReader</name>
+            <persistsState>false</persistsState>
+            <properties>
+                <entry>
+                    <key>schema-access-strategy</key>
+                    <value>csv-header-derived</value>
+                </entry>
+                <entry>
+                    <key>schema-registry</key>
+                </entry>
+                <entry>
+                    <key>schema-name</key>
+                    <value>${schema.name}</value>
+                </entry>
+                <entry>
+                    <key>schema-version</key>
+                </entry>
+                <entry>
+                    <key>schema-branch</key>
+                </entry>
+                <entry>
+                    <key>schema-text</key>
+                    <value>${avro.schema}</value>
+                </entry>
+                <entry>
+                    <key>csv-reader-csv-parser</key>
+                    <value>commons-csv</value>
+                </entry>
+                <entry>
+                    <key>Date Format</key>
+                </entry>
+                <entry>
+                    <key>Time Format</key>
+                </entry>
+                <entry>
+                    <key>Timestamp Format</key>
+                </entry>
+                <entry>
+                    <key>CSV Format</key>
+                    <value>custom</value>
+                </entry>
+                <entry>
+                    <key>Value Separator</key>
+                    <value>,</value>
+                </entry>
+                <entry>
+                    <key>Record Separator</key>
+                    <value>\n</value>
+                </entry>
+                <entry>
+                    <key>Skip Header Line</key>
+                    <value>true</value>
+                </entry>
+                <entry>
+                    <key>ignore-csv-header</key>
+                    <value>false</value>
+                </entry>
+                <entry>
+                    <key>Quote Character</key>
+                    <value>"</value>
+                </entry>
+                <entry>
+                    <key>Escape Character</key>
+                    <value>\</value>
+                </entry>
+                <entry>
+                    <key>Comment Marker</key>
+                </entry>
+                <entry>
+                    <key>Null String</key>
+                </entry>
+                <entry>
+                    <key>Trim Fields</key>
+                    <value>true</value>
+                </entry>
+                <entry>
+                    <key>csvutils-character-set</key>
+                    <value>UTF-8</value>
+                </entry>
+                <entry>
+                    <key>csvutils-allow-duplicate-header-names</key>
+                    <value>true</value>
+                </entry>
+                <entry>
+                    <key>Trim double quote</key>
+                    <value>true</value>
+                </entry>
+            </properties>
+            <state>ENABLED</state>
+            <type>org.apache.nifi.csv.CSVReader</type>
+        </controllerServices>
+        <controllerServices>
+            <id>f7a174db-47b6-3fb7-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <versionedComponentId>f7a174db-47b6-3fb7-a8dc-2e15a43b7ff9</versionedComponentId>
+            <bulletinLevel>WARN</bulletinLevel>
+            <bundle>
+                <artifact>nifi-record-serialization-services-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <comments></comments>
+            <descriptors>
+                <entry>
+                    <key>Schema Write Strategy</key>
+                    <value>
+                        <name>Schema Write Strategy</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-cache</key>
+                    <value>
+                        <identifiesControllerService>org.apache.nifi.serialization.RecordSchemaCacheService</identifiesControllerService>
+                        <name>schema-cache</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-protocol-version</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>hwx-schema-ref-attributes</dependentValues>
+                            <dependentValues>hwx-content-encoded-schema</dependentValues>
+                            <propertyName>Schema Write Strategy</propertyName>
+                        </dependencies>
+                        <name>schema-protocol-version</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-access-strategy</key>
+                    <value>
+                        <name>schema-access-strategy</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-registry</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>confluent-encoded</dependentValues>
+                            <dependentValues>schema-name</dependentValues>
+                            <dependentValues>hwx-schema-ref-attributes</dependentValues>
+                            <dependentValues>hwx-content-encoded-schema</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <identifiesControllerService>org.apache.nifi.schemaregistry.services.SchemaRegistry</identifiesControllerService>
+                        <name>schema-registry</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-name</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-name</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-version</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-version</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-branch</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-name</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-branch</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>schema-text</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>schema-text-property</dependentValues>
+                            <propertyName>schema-access-strategy</propertyName>
+                        </dependencies>
+                        <name>schema-text</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Date Format</key>
+                    <value>
+                        <name>Date Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Time Format</key>
+                    <value>
+                        <name>Time Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Timestamp Format</key>
+                    <value>
+                        <name>Timestamp Format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>Pretty Print JSON</key>
+                    <value>
+                        <name>Pretty Print JSON</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>suppress-nulls</key>
+                    <value>
+                        <name>suppress-nulls</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>output-grouping</key>
+                    <value>
+                        <name>output-grouping</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>compression-format</key>
+                    <value>
+                        <name>compression-format</name>
+                    </value>
+                </entry>
+                <entry>
+                    <key>compression-level</key>
+                    <value>
+                        <dependencies>
+                            <dependentValues>gzip</dependentValues>
+                            <propertyName>compression-format</propertyName>
+                        </dependencies>
+                        <name>compression-level</name>
+                    </value>
+                </entry>
+            </descriptors>
+            <name>JsonRecordSetWriter</name>
+            <persistsState>false</persistsState>
+            <properties>
+                <entry>
+                    <key>Schema Write Strategy</key>
+                    <value>no-schema</value>
+                </entry>
+                <entry>
+                    <key>schema-cache</key>
+                </entry>
+                <entry>
+                    <key>schema-protocol-version</key>
+                    <value>1</value>
+                </entry>
+                <entry>
+                    <key>schema-access-strategy</key>
+                    <value>inherit-record-schema</value>
+                </entry>
+                <entry>
+                    <key>schema-registry</key>
+                </entry>
+                <entry>
+                    <key>schema-name</key>
+                    <value>${schema.name}</value>
+                </entry>
+                <entry>
+                    <key>schema-version</key>
+                </entry>
+                <entry>
+                    <key>schema-branch</key>
+                </entry>
+                <entry>
+                    <key>schema-text</key>
+                    <value>${avro.schema}</value>
+                </entry>
+                <entry>
+                    <key>Date Format</key>
+                </entry>
+                <entry>
+                    <key>Time Format</key>
+                </entry>
+                <entry>
+                    <key>Timestamp Format</key>
+                </entry>
+                <entry>
+                    <key>Pretty Print JSON</key>
+                    <value>false</value>
+                </entry>
+                <entry>
+                    <key>suppress-nulls</key>
+                    <value>never-suppress</value>
+                </entry>
+                <entry>
+                    <key>output-grouping</key>
+                    <value>output-array</value>
+                </entry>
+                <entry>
+                    <key>compression-format</key>
+                    <value>none</value>
+                </entry>
+                <entry>
+                    <key>compression-level</key>
+                    <value>1</value>
+                </entry>
+            </properties>
+            <state>ENABLED</state>
+            <type>org.apache.nifi.json.JsonRecordSetWriter</type>
+        </controllerServices>
+        <processors>
+            <id>13de3398-edb0-3436-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>1216.0</x>
+                <y>472.0</y>
+            </position>
+            <versionedComponentId>13de3398-edb0-3436-a5e4-6ee7cc155a9d</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>record-reader</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordReaderFactory</identifiesControllerService>
+                            <name>record-reader</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordSetWriterFactory</identifiesControllerService>
+                            <name>record-writer</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>include-zero-record-flowfiles</key>
+                        <value>
+                            <name>include-zero-record-flowfiles</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>record-reader</key>
+                        <value>d908d0d0-ad62-3354-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>f7a174db-47b6-3fb7-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>include-zero-record-flowfiles</key>
+                        <value>true</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>ConvertRecord_products</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.ConvertRecord</type>
+        </processors>
+        <processors>
+            <id>22677557-db20-336e-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>1376.0</x>
+                <y>728.0</y>
+            </position>
+            <versionedComponentId>22677557-db20-336e-9bb6-fa5fef484166</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>put-db-record-record-reader</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordReaderFactory</identifiesControllerService>
+                            <name>put-db-record-record-reader</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>db-type</key>
+                        <value>
+                            <name>db-type</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-statement-type</key>
+                        <value>
+                            <name>put-db-record-statement-type</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Statement Type Record Path</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>Statement Type Record Path</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Data Record Path</key>
+                        <value>
+                            <name>Data Record Path</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-dcbp-service</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.dbcp.DBCPService</identifiesControllerService>
+                            <name>put-db-record-dcbp-service</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-catalog-name</key>
+                        <value>
+                            <name>put-db-record-catalog-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-schema-name</key>
+                        <value>
+                            <name>put-db-record-schema-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-table-name</key>
+                        <value>
+                            <name>put-db-record-table-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-translate-field-names</key>
+                        <value>
+                            <name>put-db-record-translate-field-names</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-field-behavior</key>
+                        <value>
+                            <name>put-db-record-unmatched-field-behavior</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-column-behavior</key>
+                        <value>
+                            <name>put-db-record-unmatched-column-behavior</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-update-keys</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<dependentValues>UPSERT</dependentValues>
+<dependentValues>UPDATE</dependentValues>
+<dependentValues>SQL</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-update-keys</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-field-containing-sql</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-field-containing-sql</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-allow-multiple-statements</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-allow-multiple-statements</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-identifiers</key>
+                        <value>
+                            <name>put-db-record-quoted-identifiers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-table-identifiers</key>
+                        <value>
+                            <name>put-db-record-quoted-table-identifiers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-query-timeout</key>
+                        <value>
+                            <name>put-db-record-query-timeout</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>rollback-on-failure</key>
+                        <value>
+                            <name>rollback-on-failure</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>table-schema-cache-size</key>
+                        <value>
+                            <name>table-schema-cache-size</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-max-batch-size</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<dependentValues>INSERT</dependentValues>
+<dependentValues>UPDATE</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-max-batch-size</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>put-db-record-record-reader</key>
+                        <value>be1c2a1c-f732-3de9-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>db-type</key>
+                        <value>PostgreSQL</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-statement-type</key>
+                        <value>UPSERT</value>
+                    </entry>
+                    <entry>
+                        <key>Statement Type Record Path</key>
+                    </entry>
+                    <entry>
+                        <key>Data Record Path</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-dcbp-service</key>
+                        <value>5b32cfe8-b94c-3b26-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-catalog-name</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-schema-name</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-table-name</key>
+                        <value>products</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-translate-field-names</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-field-behavior</key>
+                        <value>Ignore Unmatched Fields</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-column-behavior</key>
+                        <value>Fail on Unmatched Columns</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-update-keys</key>
+                        <value>product_id</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-field-containing-sql</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-allow-multiple-statements</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-identifiers</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-table-identifiers</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-query-timeout</key>
+                        <value>0 seconds</value>
+                    </entry>
+                    <entry>
+                        <key>rollback-on-failure</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>table-schema-cache-size</key>
+                        <value>100</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-max-batch-size</key>
+                        <value>0</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>Put_products</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>retry</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.PutDatabaseRecord</type>
+        </processors>
+        <processors>
+            <id>3f47f2b7-43d7-39d5-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>1560.0</x>
+                <y>280.0</y>
+            </position>
+            <versionedComponentId>3f47f2b7-43d7-39d5-a569-781b06f6d28c</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>record-reader</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordReaderFactory</identifiesControllerService>
+                            <name>record-reader</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordSetWriterFactory</identifiesControllerService>
+                            <name>record-writer</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>include-zero-record-flowfiles</key>
+                        <value>
+                            <name>include-zero-record-flowfiles</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>record-reader</key>
+                        <value>d908d0d0-ad62-3354-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>f7a174db-47b6-3fb7-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>include-zero-record-flowfiles</key>
+                        <value>true</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>ConvertRecord_sales</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.ConvertRecord</type>
+        </processors>
+        <processors>
+            <id>6dfab636-470b-3ebb-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>0.0</x>
+                <y>672.0</y>
+            </position>
+            <versionedComponentId>6dfab636-470b-3ebb-9569-678cc05e64ac</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>put-db-record-record-reader</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordReaderFactory</identifiesControllerService>
+                            <name>put-db-record-record-reader</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>db-type</key>
+                        <value>
+                            <name>db-type</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-statement-type</key>
+                        <value>
+                            <name>put-db-record-statement-type</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Statement Type Record Path</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>Statement Type Record Path</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Data Record Path</key>
+                        <value>
+                            <name>Data Record Path</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-dcbp-service</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.dbcp.DBCPService</identifiesControllerService>
+                            <name>put-db-record-dcbp-service</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-catalog-name</key>
+                        <value>
+                            <name>put-db-record-catalog-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-schema-name</key>
+                        <value>
+                            <name>put-db-record-schema-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-table-name</key>
+                        <value>
+                            <name>put-db-record-table-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-translate-field-names</key>
+                        <value>
+                            <name>put-db-record-translate-field-names</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-field-behavior</key>
+                        <value>
+                            <name>put-db-record-unmatched-field-behavior</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-column-behavior</key>
+                        <value>
+                            <name>put-db-record-unmatched-column-behavior</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-update-keys</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<dependentValues>UPSERT</dependentValues>
+<dependentValues>UPDATE</dependentValues>
+<dependentValues>SQL</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-update-keys</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-field-containing-sql</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-field-containing-sql</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-allow-multiple-statements</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-allow-multiple-statements</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-identifiers</key>
+                        <value>
+                            <name>put-db-record-quoted-identifiers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-table-identifiers</key>
+                        <value>
+                            <name>put-db-record-quoted-table-identifiers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-query-timeout</key>
+                        <value>
+                            <name>put-db-record-query-timeout</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>rollback-on-failure</key>
+                        <value>
+                            <name>rollback-on-failure</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>table-schema-cache-size</key>
+                        <value>
+                            <name>table-schema-cache-size</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-max-batch-size</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<dependentValues>INSERT</dependentValues>
+<dependentValues>UPDATE</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-max-batch-size</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>put-db-record-record-reader</key>
+                        <value>be1c2a1c-f732-3de9-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>db-type</key>
+                        <value>PostgreSQL</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-statement-type</key>
+                        <value>UPSERT</value>
+                    </entry>
+                    <entry>
+                        <key>Statement Type Record Path</key>
+                    </entry>
+                    <entry>
+                        <key>Data Record Path</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-dcbp-service</key>
+                        <value>5b32cfe8-b94c-3b26-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-catalog-name</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-schema-name</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-table-name</key>
+                        <value>suppliers</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-translate-field-names</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-field-behavior</key>
+                        <value>Ignore Unmatched Fields</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-column-behavior</key>
+                        <value>Fail on Unmatched Columns</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-update-keys</key>
+                        <value>supplier_id</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-field-containing-sql</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-allow-multiple-statements</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-identifiers</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-table-identifiers</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-query-timeout</key>
+                        <value>0 seconds</value>
+                    </entry>
+                    <entry>
+                        <key>rollback-on-failure</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>table-schema-cache-size</key>
+                        <value>100</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-max-batch-size</key>
+                        <value>0</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>Put_suppliers</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>retry</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.PutDatabaseRecord</type>
+        </processors>
+        <processors>
+            <id>81e3a484-5c22-3092-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>616.0</x>
+                <y>8.0</y>
+            </position>
+            <versionedComponentId>81e3a484-5c22-3092-bde4-6639f5f8113b</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>Input Directory</key>
+                        <value>
+                            <name>Input Directory</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>listing-strategy</key>
+                        <value>
+                            <name>listing-strategy</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Recurse Subdirectories</key>
+                        <value>
+                            <name>Recurse Subdirectories</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordSetWriterFactory</identifiesControllerService>
+                            <name>record-writer</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Input Directory Location</key>
+                        <value>
+                            <name>Input Directory Location</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>File Filter</key>
+                        <value>
+                            <name>File Filter</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Path Filter</key>
+                        <value>
+                            <name>Path Filter</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Include File Attributes</key>
+                        <value>
+                            <name>Include File Attributes</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Minimum File Age</key>
+                        <value>
+                            <name>Minimum File Age</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Age</key>
+                        <value>
+                            <name>Maximum File Age</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Minimum File Size</key>
+                        <value>
+                            <name>Minimum File Size</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Size</key>
+                        <value>
+                            <name>Maximum File Size</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Ignore Hidden Files</key>
+                        <value>
+                            <name>Ignore Hidden Files</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>target-system-timestamp-precision</key>
+                        <value>
+                            <name>target-system-timestamp-precision</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>et-state-cache</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.distributed.cache.client.DistributedMapCacheClient</identifiesControllerService>
+                            <name>et-state-cache</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>et-time-window</key>
+                        <value>
+                            <name>et-time-window</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>et-initial-listing-target</key>
+                        <value>
+                            <name>et-initial-listing-target</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>et-node-identifier</key>
+                        <value>
+                            <name>et-node-identifier</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>track-performance</key>
+                        <value>
+                            <name>track-performance</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>max-performance-metrics</key>
+                        <value>
+                            <name>max-performance-metrics</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>max-operation-time</key>
+                        <value>
+                            <name>max-operation-time</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>max-listing-time</key>
+                        <value>
+                            <name>max-listing-time</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Input Directory</key>
+                        <value>/data</value>
+                    </entry>
+                    <entry>
+                        <key>listing-strategy</key>
+                        <value>timestamps</value>
+                    </entry>
+                    <entry>
+                        <key>Recurse Subdirectories</key>
+                        <value>true</value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                    </entry>
+                    <entry>
+                        <key>Input Directory Location</key>
+                        <value>Local</value>
+                    </entry>
+                    <entry>
+                        <key>File Filter</key>
+                        <value>.*\.csv</value>
+                    </entry>
+                    <entry>
+                        <key>Path Filter</key>
+                    </entry>
+                    <entry>
+                        <key>Include File Attributes</key>
+                        <value>true</value>
+                    </entry>
+                    <entry>
+                        <key>Minimum File Age</key>
+                        <value>0 sec</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Age</key>
+                    </entry>
+                    <entry>
+                        <key>Minimum File Size</key>
+                        <value>0 B</value>
+                    </entry>
+                    <entry>
+                        <key>Maximum File Size</key>
+                    </entry>
+                    <entry>
+                        <key>Ignore Hidden Files</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>target-system-timestamp-precision</key>
+                        <value>auto-detect</value>
+                    </entry>
+                    <entry>
+                        <key>et-state-cache</key>
+                    </entry>
+                    <entry>
+                        <key>et-time-window</key>
+                        <value>3 hours</value>
+                    </entry>
+                    <entry>
+                        <key>et-initial-listing-target</key>
+                        <value>all</value>
+                    </entry>
+                    <entry>
+                        <key>et-node-identifier</key>
+                        <value>${hostname()}</value>
+                    </entry>
+                    <entry>
+                        <key>track-performance</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>max-performance-metrics</key>
+                        <value>100000</value>
+                    </entry>
+                    <entry>
+                        <key>max-operation-time</key>
+                        <value>10 secs</value>
+                    </entry>
+                    <entry>
+                        <key>max-listing-time</key>
+                        <value>3 mins</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>1 min</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>ListFile</name>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.ListFile</type>
+        </processors>
+        <processors>
+            <id>9d0d31a6-5846-38cf-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>512.0</x>
+                <y>744.0</y>
+            </position>
+            <versionedComponentId>9d0d31a6-5846-38cf-ae77-c67eee4d7666</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>put-db-record-record-reader</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordReaderFactory</identifiesControllerService>
+                            <name>put-db-record-record-reader</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>db-type</key>
+                        <value>
+                            <name>db-type</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-statement-type</key>
+                        <value>
+                            <name>put-db-record-statement-type</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Statement Type Record Path</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>Statement Type Record Path</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Data Record Path</key>
+                        <value>
+                            <name>Data Record Path</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-dcbp-service</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.dbcp.DBCPService</identifiesControllerService>
+                            <name>put-db-record-dcbp-service</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-catalog-name</key>
+                        <value>
+                            <name>put-db-record-catalog-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-schema-name</key>
+                        <value>
+                            <name>put-db-record-schema-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-table-name</key>
+                        <value>
+                            <name>put-db-record-table-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-translate-field-names</key>
+                        <value>
+                            <name>put-db-record-translate-field-names</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-field-behavior</key>
+                        <value>
+                            <name>put-db-record-unmatched-field-behavior</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-column-behavior</key>
+                        <value>
+                            <name>put-db-record-unmatched-column-behavior</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-update-keys</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<dependentValues>UPSERT</dependentValues>
+<dependentValues>UPDATE</dependentValues>
+<dependentValues>SQL</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-update-keys</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-field-containing-sql</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-field-containing-sql</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-allow-multiple-statements</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-allow-multiple-statements</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-identifiers</key>
+                        <value>
+                            <name>put-db-record-quoted-identifiers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-table-identifiers</key>
+                        <value>
+                            <name>put-db-record-quoted-table-identifiers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-query-timeout</key>
+                        <value>
+                            <name>put-db-record-query-timeout</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>rollback-on-failure</key>
+                        <value>
+                            <name>rollback-on-failure</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>table-schema-cache-size</key>
+                        <value>
+                            <name>table-schema-cache-size</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-max-batch-size</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<dependentValues>INSERT</dependentValues>
+<dependentValues>UPDATE</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-max-batch-size</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>put-db-record-record-reader</key>
+                        <value>be1c2a1c-f732-3de9-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>db-type</key>
+                        <value>PostgreSQL</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-statement-type</key>
+                        <value>UPSERT</value>
+                    </entry>
+                    <entry>
+                        <key>Statement Type Record Path</key>
+                    </entry>
+                    <entry>
+                        <key>Data Record Path</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-dcbp-service</key>
+                        <value>5b32cfe8-b94c-3b26-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-catalog-name</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-schema-name</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-table-name</key>
+                        <value>customers</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-translate-field-names</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-field-behavior</key>
+                        <value>Ignore Unmatched Fields</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-column-behavior</key>
+                        <value>Fail on Unmatched Columns</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-update-keys</key>
+                        <value>customer_id</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-field-containing-sql</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-allow-multiple-statements</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-identifiers</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-table-identifiers</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-query-timeout</key>
+                        <value>0 seconds</value>
+                    </entry>
+                    <entry>
+                        <key>rollback-on-failure</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>table-schema-cache-size</key>
+                        <value>100</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-max-batch-size</key>
+                        <value>0</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>Put_customers</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>retry</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.PutDatabaseRecord</type>
+        </processors>
+        <processors>
+            <id>a4680180-1f97-3bb7-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>1872.0</x>
+                <y>488.0</y>
+            </position>
+            <versionedComponentId>a4680180-1f97-3bb7-bee1-6198ec1fa71e</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>put-db-record-record-reader</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordReaderFactory</identifiesControllerService>
+                            <name>put-db-record-record-reader</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>db-type</key>
+                        <value>
+                            <name>db-type</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-statement-type</key>
+                        <value>
+                            <name>put-db-record-statement-type</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Statement Type Record Path</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>Statement Type Record Path</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Data Record Path</key>
+                        <value>
+                            <name>Data Record Path</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-dcbp-service</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.dbcp.DBCPService</identifiesControllerService>
+                            <name>put-db-record-dcbp-service</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-catalog-name</key>
+                        <value>
+                            <name>put-db-record-catalog-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-schema-name</key>
+                        <value>
+                            <name>put-db-record-schema-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-table-name</key>
+                        <value>
+                            <name>put-db-record-table-name</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-translate-field-names</key>
+                        <value>
+                            <name>put-db-record-translate-field-names</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-field-behavior</key>
+                        <value>
+                            <name>put-db-record-unmatched-field-behavior</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-column-behavior</key>
+                        <value>
+                            <name>put-db-record-unmatched-column-behavior</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-update-keys</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<dependentValues>UPSERT</dependentValues>
+<dependentValues>UPDATE</dependentValues>
+<dependentValues>SQL</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-update-keys</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-field-containing-sql</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-field-containing-sql</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-allow-multiple-statements</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-allow-multiple-statements</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-identifiers</key>
+                        <value>
+                            <name>put-db-record-quoted-identifiers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-table-identifiers</key>
+                        <value>
+                            <name>put-db-record-quoted-table-identifiers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-query-timeout</key>
+                        <value>
+                            <name>put-db-record-query-timeout</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>rollback-on-failure</key>
+                        <value>
+                            <name>rollback-on-failure</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>table-schema-cache-size</key>
+                        <value>
+                            <name>table-schema-cache-size</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-max-batch-size</key>
+                        <value>
+                            <dependencies>
+<dependentValues>Use statement.type Attribute</dependentValues>
+<dependentValues>Use Record Path</dependentValues>
+<dependentValues>INSERT</dependentValues>
+<dependentValues>UPDATE</dependentValues>
+<propertyName>put-db-record-statement-type</propertyName>
+                            </dependencies>
+                            <name>put-db-record-max-batch-size</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>put-db-record-record-reader</key>
+                        <value>be1c2a1c-f732-3de9-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>db-type</key>
+                        <value>PostgreSQL</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-statement-type</key>
+                        <value>UPSERT</value>
+                    </entry>
+                    <entry>
+                        <key>Statement Type Record Path</key>
+                    </entry>
+                    <entry>
+                        <key>Data Record Path</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-dcbp-service</key>
+                        <value>5b32cfe8-b94c-3b26-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-catalog-name</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-schema-name</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-table-name</key>
+                        <value>daily_sales</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-translate-field-names</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-field-behavior</key>
+                        <value>Ignore Unmatched Fields</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-unmatched-column-behavior</key>
+                        <value>Fail on Unmatched Columns</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-update-keys</key>
+                        <value>sale_id</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-field-containing-sql</key>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-allow-multiple-statements</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-identifiers</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-quoted-table-identifiers</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-query-timeout</key>
+                        <value>0 seconds</value>
+                    </entry>
+                    <entry>
+                        <key>rollback-on-failure</key>
+                        <value>false</value>
+                    </entry>
+                    <entry>
+                        <key>table-schema-cache-size</key>
+                        <value>100</value>
+                    </entry>
+                    <entry>
+                        <key>put-db-record-max-batch-size</key>
+                        <value>0</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>Put_sales</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>retry</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.PutDatabaseRecord</type>
+        </processors>
+        <processors>
+            <id>e3cafbe8-c4f9-36ad-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>656.0</x>
+                <y>472.0</y>
+            </position>
+            <versionedComponentId>e3cafbe8-c4f9-36ad-84d1-3069ea2bba31</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>record-reader</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordReaderFactory</identifiesControllerService>
+                            <name>record-reader</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordSetWriterFactory</identifiesControllerService>
+                            <name>record-writer</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>include-zero-record-flowfiles</key>
+                        <value>
+                            <name>include-zero-record-flowfiles</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>record-reader</key>
+                        <value>d908d0d0-ad62-3354-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>f7a174db-47b6-3fb7-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>include-zero-record-flowfiles</key>
+                        <value>true</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>ConvertRecord_customers</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.ConvertRecord</type>
+        </processors>
+        <processors>
+            <id>f9b8d209-0289-320b-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>256.0</x>
+                <y>312.0</y>
+            </position>
+            <versionedComponentId>f9b8d209-0289-320b-8a67-616de7e06939</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>record-reader</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordReaderFactory</identifiesControllerService>
+                            <name>record-reader</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>
+                            <identifiesControllerService>org.apache.nifi.serialization.RecordSetWriterFactory</identifiesControllerService>
+                            <name>record-writer</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>include-zero-record-flowfiles</key>
+                        <value>
+                            <name>include-zero-record-flowfiles</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>record-reader</key>
+                        <value>d908d0d0-ad62-3354-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>record-writer</key>
+                        <value>f7a174db-47b6-3fb7-0000-000000000000</value>
+                    </entry>
+                    <entry>
+                        <key>include-zero-record-flowfiles</key>
+                        <value>true</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>ConvertRecord_suppliers</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.ConvertRecord</type>
+        </processors>
+        <processors>
+            <id>fa7b89bb-2ade-3b7d-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>1264.0</x>
+                <y>0.0</y>
+            </position>
+            <versionedComponentId>fa7b89bb-2ade-3b7d-b4af-57e1f9abfe93</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>File to Fetch</key>
+                        <value>
+                            <name>File to Fetch</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Completion Strategy</key>
+                        <value>
+                            <name>Completion Strategy</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Move Destination Directory</key>
+                        <value>
+                            <name>Move Destination Directory</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Move Conflict Strategy</key>
+                        <value>
+                            <name>Move Conflict Strategy</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Log level when file not found</key>
+                        <value>
+                            <name>Log level when file not found</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>Log level when permission denied</key>
+                        <value>
+                            <name>Log level when permission denied</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>File to Fetch</key>
+                        <value>${absolute.path}/${filename}</value>
+                    </entry>
+                    <entry>
+                        <key>Completion Strategy</key>
+                        <value>Move File</value>
+                    </entry>
+                    <entry>
+                        <key>Move Destination Directory</key>
+                        <value>/archive</value>
+                    </entry>
+                    <entry>
+                        <key>Move Conflict Strategy</key>
+                        <value>Rename</value>
+                    </entry>
+                    <entry>
+                        <key>Log level when file not found</key>
+                        <value>ERROR</value>
+                    </entry>
+                    <entry>
+                        <key>Log level when permission denied</key>
+                        <value>ERROR</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>0</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>FetchFile</name>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>failure</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>not.found</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>permission.denied</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>success</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.FetchFile</type>
+        </processors>
+        <processors>
+            <id>ffd4b6b0-8106-3067-0000-000000000000</id>
+            <parentGroupId>b7d39576-44e6-3330-0000-000000000000</parentGroupId>
+            <position>
+                <x>920.0</x>
+                <y>232.0</y>
+            </position>
+            <versionedComponentId>ffd4b6b0-8106-3067-9dea-2ce65c23a350</versionedComponentId>
+            <bundle>
+                <artifact>nifi-standard-nar</artifact>
+                <group>org.apache.nifi</group>
+                <version>1.20.0</version>
+            </bundle>
+            <config>
+                <backoffMechanism>PENALIZE_FLOWFILE</backoffMechanism>
+                <bulletinLevel>WARN</bulletinLevel>
+                <comments></comments>
+                <concurrentlySchedulableTaskCount>1</concurrentlySchedulableTaskCount>
+                <descriptors>
+                    <entry>
+                        <key>Routing Strategy</key>
+                        <value>
+                            <name>Routing Strategy</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>customers</key>
+                        <value>
+                            <name>customers</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>daily_sales</key>
+                        <value>
+                            <name>daily_sales</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>products</key>
+                        <value>
+                            <name>products</name>
+                        </value>
+                    </entry>
+                    <entry>
+                        <key>suppliers</key>
+                        <value>
+                            <name>suppliers</name>
+                        </value>
+                    </entry>
+                </descriptors>
+                <executionNode>ALL</executionNode>
+                <lossTolerant>false</lossTolerant>
+                <maxBackoffPeriod>10 mins</maxBackoffPeriod>
+                <penaltyDuration>30 sec</penaltyDuration>
+                <properties>
+                    <entry>
+                        <key>Routing Strategy</key>
+                        <value>Route to Property name</value>
+                    </entry>
+                    <entry>
+                        <key>customers</key>
+                        <value>${filename:equals('customers.csv')}</value>
+                    </entry>
+                    <entry>
+                        <key>daily_sales</key>
+                        <value>${filename:equals('daily_sales.csv')}</value>
+                    </entry>
+                    <entry>
+                        <key>products</key>
+                        <value>${filename:equals('products.csv')}</value>
+                    </entry>
+                    <entry>
+                        <key>suppliers</key>
+                        <value>${filename:equals('suppliers.csv')}</value>
+                    </entry>
+                </properties>
+                <retryCount>10</retryCount>
+                <runDurationMillis>25</runDurationMillis>
+                <schedulingPeriod>0 sec</schedulingPeriod>
+                <schedulingStrategy>TIMER_DRIVEN</schedulingStrategy>
+                <yieldDuration>1 sec</yieldDuration>
+            </config>
+            <executionNodeRestricted>false</executionNodeRestricted>
+            <name>RouteOnAttribute</name>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>customers</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>daily_sales</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>products</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>false</autoTerminate>
+                <name>suppliers</name>
+                <retry>false</retry>
+            </relationships>
+            <relationships>
+                <autoTerminate>true</autoTerminate>
+                <name>unmatched</name>
+                <retry>false</retry>
+            </relationships>
+            <state>STOPPED</state>
+            <style/>
+            <type>org.apache.nifi.processors.standard.RouteOnAttribute</type>
+        </processors>
+    </snippet>
+    <timestamp>03/05/2026 21:11:28 UTC</timestamp>
+</template>
